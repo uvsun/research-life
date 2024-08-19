@@ -98,7 +98,7 @@ const customElements = [
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [
-    ["link", { rel: "icon", href: "/uvsun-vitepress/logo.svg" }],
+    ["link", { rel: "icon", href: "/research-life/logo.svg" }],
     ['script', { src: 'https://sdk.jinrishici.com/v2/browser/jinrishici.js' }]
 ],
 
@@ -107,7 +107,7 @@ export default defineConfig({
   outDir: "dist",
   srcDir: "src",
   cleanUrls: true,
-  base: "/uvsun-vitepress/",
+  base: "/research-life/",
 
   markdown: {
     math: true,
