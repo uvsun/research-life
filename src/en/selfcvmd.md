@@ -1,19 +1,19 @@
 --- 
 layout:page
 ---
-<img src="/self.jpg" height="99em" width="90em" style="float:right;">
-        <h1>YuShun Wu</h1>
-        <br>
-        <!-- <p>Academic Master's Degree</p> -->
-        <!-- <p>
-            男 | 97年 | 武汉工程大学21级学术型硕士研究生 | 山东临沂
-        </p> -->
-        <p>
-            Email: yvshunwu@gmail.com | WeChat:wuyushun1118 | Subscriptions: <a href="/wechat">ForJungle</a> | Mobile: +86-18315642462
-        </p>
-        <!-- <p>
-            手机：18315642462 | 邮箱：yvshunwu@gmail.com | 微信：wuyushun1118 | 公众号：<a href="/wechat">ForJungle</a>
-        </p> -->
+<!-- <img src="/self.jpg" height="99em" width="90em" style="float:right;"> -->
+<h1>YuShun Wu</h1>
+<br>
+<!-- <p>Academic Master's Degree</p> -->
+<!-- <p>
+    男 | 97年 | 武汉工程大学21级学术型硕士研究生 | 山东临沂
+</p> -->
+<p>
+    Email: yvshunwu@gmail.com | WeChat:wuyushun1118 | Subscriptions: <a href="/research-life/wechat">ForJungle</a> | Mobile: +86-18315642462
+</p>
+<!-- <p>
+    手机：18315642462 | 邮箱：yvshunwu@gmail.com | 微信：wuyushun1118 | 公众号：<a href="/wechat">ForJungle</a>
+</p> -->
 
 <h2 style="text-align: center;">EDUCATION</h2>
 
@@ -54,7 +54,7 @@ Smart City | [Oral Presentation](/activexppt) <span style="float:right;">2023.07
 ### Social Practice
 1. Theoretical Mechanics | assistant
 2. 基于物联网和人工智能的建筑物监测系统 | 校级金奖省级项目 | guide
-3. 第九届湖北省大学生结构设计竞赛暨第十五届全国大学生结构设计竞赛分区赛 | Volunteer Technical Group Leader
+3. 第九届湖北省大学生结构设计竞赛暨第十五届全国大学生结构设计竞赛分区赛 | volunteer technical group leader
 ### Rewards
 1. Academic Scholarships
 
@@ -87,4 +87,4 @@ Smart City | [Oral Presentation](/activexppt) <span style="float:right;">2023.07
 
 ----
 
-<div style="text-align: center;"><a href="https://www.wondercv.com/jianlimoban/7ba047a97c2d4090.html" target="_blank">Layout reference</a>/<a href="selfcv">HTML page</a></div>
+<div style="text-align: center;"><a href="https://www.wondercv.com/jianlimoban/7ba047a97c2d4090.html" target="_blank">Layout reference</a>/<a href="/research-life/en/selfcv">HTML page</a></div>
