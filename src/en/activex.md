@@ -4,7 +4,7 @@ layout: doc
 # 基于AcitveX实现的硬件控制系统
 
 ::: danger
-This work is based on Chinese only，but you can find [English edition PPT](/activexppten.md) here.
+This work is based on Chinese only，but you can find [English edition PPT](/en/activexppten.md) here.
 :::
 
 ::: info
