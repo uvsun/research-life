@@ -104,7 +104,7 @@ export default defineConfig({
 
 
 
-  outDir: "dist",
+  // outDir: "dist",
   srcDir: "src",
   cleanUrls: true,
   base: "/research-life/",
