@@ -147,7 +147,7 @@ export default defineConfig({
             items:[
               { text: 'CV/RESUME', link: 'en/selfcvmd' },
               { text: 'Structural Reliability Algorithm', link: 'en/reliability' },
-              { text: 'Hardware Control System', link: 'en/activexppten.md'},
+              { text: 'Hardware Control System', link: 'en/activex.md'},
             ],
           },
           
