@@ -22,6 +22,6 @@ features:
       src: /hardandsoft.svg
     title: Hardware Control System Based on AcitvEX Implementation
     details: A hardware control system that can be controlled by multiple programming languages
-    link: /en/activexppten
+    link: /en/activex
 ---
 
