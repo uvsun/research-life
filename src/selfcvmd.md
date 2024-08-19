@@ -36,9 +36,9 @@ layout:page
 3. 基于ActiveX和ESP32的桥梁传感器实时监控系统 | 校级创新基金 | 已结题 <span style="float:right;">2023年12月</span>
 ### 专利及软著
 1. Idoit智能全站仪保护罩控制系统 | 软著 | [已授权](https://banquan.tianyancha.com/rj/9c9ov79za589acd6cb425a1a7lcav498) | 第一作者 <span style="float:right;">2023年06月</span>
-2. 一种模块化的智能全站仪保护系统 | 发明 | 初步审查合格 | 第一作者 <span style="float:right;">2023年10月
+2. 一种模块化的智能全站仪保护系统 | 发明 | 实质审查 | 第一作者 <span style="float:right;">2023年10月
 </span>
-3. 基于自适应网格的结构可靠度预测方法 | 发明 | [初步审查合格](https://www.patentguru.com/cn/CN118194643A) | 第一作者 <span style="float:right;">2023年12月</span>
+3. 基于自适应网格的结构可靠度预测方法 | 发明 | [实质审查](https://www.patentguru.com/cn/CN118194643A) | 第一作者 <span style="float:right;">2023年12月</span>
 ### 会议及其他
 1. ActiveX—based Root System under Windows System | 第二届绿色建筑、土木工程与智慧城市国际会议 | [作报告](/activexppt) <span style="float:right;">2023年07月</span>
 2. 桥梁维修与加固技术教材 | 拱桥部分编写 <span style="float:right;">2021年10月</span>
