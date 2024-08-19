@@ -4,11 +4,11 @@ layout: doc
 # 基于自适应网格的主动学习算法及其结构可靠性预测应用
 
 ::: info
-本文仅作简单介绍，具体细节详见[论文](/reliabilitythesis.md)
+本文仅作简单介绍，具体细节详见[论文](/research-life/reliabilitythesis.md)
 :::
 
 ::: tip
-当然也可以看[PPT](/reliabilityppt.md)
+当然也可以看[PPT](/research-life/reliabilityppt.md)
 :::
 
 ## 基本原理

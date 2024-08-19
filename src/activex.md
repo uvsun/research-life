@@ -4,7 +4,7 @@ layout: doc
 # 基于AcitveX实现的硬件控制系统
 
 ::: info
-本文仅作简单介绍，具体细节详见[PPT](/activexppt.md)
+本文仅作简单介绍，具体细节详见[PPT](/research-life/activexppt.md)
 :::
 
 ::: tip
