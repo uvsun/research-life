@@ -7,7 +7,7 @@ layout:page
             男 | 97年 | 武汉工程大学21级学术型硕士研究生 | 山东临沂
         </p>
         <p>
-            手机：18315642462 | 邮箱：yvshunwu@gmail.com | 微信：wuyushun1118 | 公众号：<a href="/wechat">ForJungle</a>
+            手机：18315642462 | 邮箱：yvshunwu@gmail.com | 微信：wuyushun1118 | 公众号：<a href="/research-life/wechat">ForJungle</a>
         </p>
 
 
@@ -40,7 +40,7 @@ layout:page
 </span>
 3. 基于自适应网格的结构可靠度预测方法 | 发明 | [初步审查合格](https://www.patentguru.com/cn/CN118194643A) | 第一作者 <span style="float:right;">2023年12月</span>
 ### 会议及其他
-1. ActiveX—based Root System under Windows System | 第二届绿色建筑、土木工程与智慧城市国际会议 | [作报告](/activexppt) <span style="float:right;">2023年07月</span>
+1. ActiveX—based Root System under Windows System | 第二届绿色建筑、土木工程与智慧城市国际会议 | [作报告](/research-life/activexppt) <span style="float:right;">2023年07月</span>
 2. 桥梁维修与加固技术教材 | 拱桥部分编写 <span style="float:right;">2021年10月</span>
 
 <h2 style="text-align: center;">社会实践及奖惩情况</h2>
