@@ -4,5 +4,6 @@ dist-ssr
 cache
 .cache
 .temp
+dist
 *.local
 .vscode
