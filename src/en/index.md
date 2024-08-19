@@ -18,10 +18,13 @@ features:
     title: Active Learning Algorithm Based on Adaptive Grid and Its Application in Structural Reliability Prediction
     details: Adaptive grid divide variable space for reliability calculation
     link: /en/reliability
+    linkText: More details
   - icon: 
       src: /hardandsoft.svg
     title: Hardware Control System Based on AcitvEX Implementation
     details: A hardware control system that can be controlled by multiple programming languages
     link: /en/activex
+    linkText: More details
+
 ---
 
